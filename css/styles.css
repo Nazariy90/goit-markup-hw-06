@@ -856,7 +856,7 @@ address {
 .modal-form-check:checked+.modal-form-check-desk::before {
     background-color: var(--color-404BBF);
     border-color: var(--color-404BBF);
-    background-image: url(/images/Vector.svg);
+    background-image: url(../images/Vector.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
